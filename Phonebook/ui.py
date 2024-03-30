@@ -1,7 +1,7 @@
-from HW_S12_Phonebook.Phonebook.input_data import input_data
-from HW_S12_Phonebook.Phonebook.print_data import print_data
-from HW_S12_Phonebook.Phonebook.change_data import change_data
-from HW_S12_Phonebook.Phonebook.delete_data import delete_data
+from input_data import input_data
+from print_data import print_data
+from change_data import change_data
+from delete_data import delete_data
 
 def interface():
   print("Добрый день! Вы попали в бот телефонный-справочник! \n"
